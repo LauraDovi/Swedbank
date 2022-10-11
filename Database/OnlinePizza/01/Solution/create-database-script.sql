@@ -2,7 +2,6 @@ USE [master]
 GO
 /****** Object:  Database [OnlinePizzaSingle]    Script Date: 10/10/2022 2:57:05 PM ******/
 CREATE DATABASE [OnlinePizzaSingle]
-
 GO
 USE [OnlinePizzaSingle]
 GO
