@@ -4,7 +4,7 @@ We're going to build a database for **one** pizzeria that delivers pizzas. Here 
 
     Alice orders 2 Margaritas and 3 Fungi from Pizzeria Formaggio (Flemingsgatan 7, Stockholm). Note: "Vegan!"
 
-    Wilma orders 1 Fungi och 2 Vesuvio from Pizzeria Venedig  (Risbrinksgatan 4, Linköping). Note: "Hurry up!". One of the Vesuvio should have pommes on top.
+    Wilma orders 1 Fungi och 2 Vesuvio from Pizzeria Venedig  (Risbrinksgatan 4, Linköping). Note: "Hurry up!". One of the Vesuvio should have pommes on top. The Fungi pizza should be without cheese (shouldn't affect price).
 
     Lukas orders 1 Hawaii from Pizzeria Mini mac (Fjällgatan 28, Göteborg) with double dough and garlic sause.
 
